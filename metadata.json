@@ -1,0 +1,7 @@
+{
+  "name": "عالم الألوان - لعبة تلوين الأطفال التفاعلية",
+  "description": "لعبة تلوين تفاعلية وممتعة للأطفال لتنمية الإبداع والمخيلة مع أصوات موسيقية، أدوات تلوين سحرية، وقصص مصورة ملهمة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
